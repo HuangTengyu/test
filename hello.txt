@@ -7,8 +7,13 @@ hello nihao
 =======
 123123
 >>>>>>> tmp
+<<<<<<< HEAD
 sdfasdfadf
 
+=======
+wo ai ni zhong guo 
+asdfasdfasfd
+>>>>>>> d06c2c710c888331b2ebeb564fbb5afd834f623f
 
 
 
